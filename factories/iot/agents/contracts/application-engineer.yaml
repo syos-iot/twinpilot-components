@@ -68,4 +68,5 @@ tools:
   - read_artifact
   - list_artifacts
   - write_sprint_workspace
+  - write_sprint_docs
   - escalate_to_human
