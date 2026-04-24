@@ -2,7 +2,7 @@ slug: technical-product-manager
 name: "Technical Product Manager"
 version: "1.0.0"
 squad: iot-tech
-level: lead
+level: specialist
 origin: syos-iot/iot
 icon: "🗺️"
 tags: [product, strategy, roadmap, iot, technical-depth, iot-tech]

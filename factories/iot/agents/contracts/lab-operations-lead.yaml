@@ -2,7 +2,7 @@ slug: lab-operations-lead
 name: "Lab Operations Lead"
 version: "1.0.0"
 squad: iot-lab
-level: lead
+level: specialist
 origin: syos-iot/iot
 icon: "🧭"
 tags: [operations, systems-thinking, kpis, leadership, iot-lab]

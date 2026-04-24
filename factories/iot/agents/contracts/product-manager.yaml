@@ -2,7 +2,7 @@ slug: product-manager
 name: "Product Manager"
 version: "1.0.0"
 squad: iot-tech
-level: lead
+level: specialist
 origin: syos-iot/iot
 icon: "🧭"
 tags: [product, discovery, jtbd, prioritization, okrs, iot-tech]

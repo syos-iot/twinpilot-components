@@ -2,7 +2,7 @@ slug: tech-lead
 name: "Tech Lead"
 version: "1.0.0"
 squad: iot-tech
-level: lead
+level: specialist
 origin: syos-iot/iot
 icon: "🎯"
 tags: [leadership, architecture, mentorship, tech-strategy, code-review, iot-tech]
